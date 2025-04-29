@@ -1,4 +1,4 @@
-Potree.PointCloudOctreeGeometry.load("https://civilsigcomco-my.sharepoint.com/:u:/g/personal/consultoria_civilsig_com_co/EWnj2FSGqKdFsqoYuVebwOMBU7BkVIb-OXi0WJyLqzGhgw?e=JxWJT6").then(geometry => {
+Potree.PointCloudOctreeGeometry.load("https://civilsigcomco-my.sharepoint.com/personal/consultoria_civilsig_com_co/EWnj2FSGqKdFsqoYuVebwOMBU7BkVIb-OXi0WJyLqzGhgw?download=1").then(geometry => {
     let pointcloud = new Potree.PointCloudOctree(geometry);
     pointcloud.name = "Nube_Ptos_Mani";
 
