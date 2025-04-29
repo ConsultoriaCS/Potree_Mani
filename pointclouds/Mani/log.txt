@@ -1,0 +1,1289 @@
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 29'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 30'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 31'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 32'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 33'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 34'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 35'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 36'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 37'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 38'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 39'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 40'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 41'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 42'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 43'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 44'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 45'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 46'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 47'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 48'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 49'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 50'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 51'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 52'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 53'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 54'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 55'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 56'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 57'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 58'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 59'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 60'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 61'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 62'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 63'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 64'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 65'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 66'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 67'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 68'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 69'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 70'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 71'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 72'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 73'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 74'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 75'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 76'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 77'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 78'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 79'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 80'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 81'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 82'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 83'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 84'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 85'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 86'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 87'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 88'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 89'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 90'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 91'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 92'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 93'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 94'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 95'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 96'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 97'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 98'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 99'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 100'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 101'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 102'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 103'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 104'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 105'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 106'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 107'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 108'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 109'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 110'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 111'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 112'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 113'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 114'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 115'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 116'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 117'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 118'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 119'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 120'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 121'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 122'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 123'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 124'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 125'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 126'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 127'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 128'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 129'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 130'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 131'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 132'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 133'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 134'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 135'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 136'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 137'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 138'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 139'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 140'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 141'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 142'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 143'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 144'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 145'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 146'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 147'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 148'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 149'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 150'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 151'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 152'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 153'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 154'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 155'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 156'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 157'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 158'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 159'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 160'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 161'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 162'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 163'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 164'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 165'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 166'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 167'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 168'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 169'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 170'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 171'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 172'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 173'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 174'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 175'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 176'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 177'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 178'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 179'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 180'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 181'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 182'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 183'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 184'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 185'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 186'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 187'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 188'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 189'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 190'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 191'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 192'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 193'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 194'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 195'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 196'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 197'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 198'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 199'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 200'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 201'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 202'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 203'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 204'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 205'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 206'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 207'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 208'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 209'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 210'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 211'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 212'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 213'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 214'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 215'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 216'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 217'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 218'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 219'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 220'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 221'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 222'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 223'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 224'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 225'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 226'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 227'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 228'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 229'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 230'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 231'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 232'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 233'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 234'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 235'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 236'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 237'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 238'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 239'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 240'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 241'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 242'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 243'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 244'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 245'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 246'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 247'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 248'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 249'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 250'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 251'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 252'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 253'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 254'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 255'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 256'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 257'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 258'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 259'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 260'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 261'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 262'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 263'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 264'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 265'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 266'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 267'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 268'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 269'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 270'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 271'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 272'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 273'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 274'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 275'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 276'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 277'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 278'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 279'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 280'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 281'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 282'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 283'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 284'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 285'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 286'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 287'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 288'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 289'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 290'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 291'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 292'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 293'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 294'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 295'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 296'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 297'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 298'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 299'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 300'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 301'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 302'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 303'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 304'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 305'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 306'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 307'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 308'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 309'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 310'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 311'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 312'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 313'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 314'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 315'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 316'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 317'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 318'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 319'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 320'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 321'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 322'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 323'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 324'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 325'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 326'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 327'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 328'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 329'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 330'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 331'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 332'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 333'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 334'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 335'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 336'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 337'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 338'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 339'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 340'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 341'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 342'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 343'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 344'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 345'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 346'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 347'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 348'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 349'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 350'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 351'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 352'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 353'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 354'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 355'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 356'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 357'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 358'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 359'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 360'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 361'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 362'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 363'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 364'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 365'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 366'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 367'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 368'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 369'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 370'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 371'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 372'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 373'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 374'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 375'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 376'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 377'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 378'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 379'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 380'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 381'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 382'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 383'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 384'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 385'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 386'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 387'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 388'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 389'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 390'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 391'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 392'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 393'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 394'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 395'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 396'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 397'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 398'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 399'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 400'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 401'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 402'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 403'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 404'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 405'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 406'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 407'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 408'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 409'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 410'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 411'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 412'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 413'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 414'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 415'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 416'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 417'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 418'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 419'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 420'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 421'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 422'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 423'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 424'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 425'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 426'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 427'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 428'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 429'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 430'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 431'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 432'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 433'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 434'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 435'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 436'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 437'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 438'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 439'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 440'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 441'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 442'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 443'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 444'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 445'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 446'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 447'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 448'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 449'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 450'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 451'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 452'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 453'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 454'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 455'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 456'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 457'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 458'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 459'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 460'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 461'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 462'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 463'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 464'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 465'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 466'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 467'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 468'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 469'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 470'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 471'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 472'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 473'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 474'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 475'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 476'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 477'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 478'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 479'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 480'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 481'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 482'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 483'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 484'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 485'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 486'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 487'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 488'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 489'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 490'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 491'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 492'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 493'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 494'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 495'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 496'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 497'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 498'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 499'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 500'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 501'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 502'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 503'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 504'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 505'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 506'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 507'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 508'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 509'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 510'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 511'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 512'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 513'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 514'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 515'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 516'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 517'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 518'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 519'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 520'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 521'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 522'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 523'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 524'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 525'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 526'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 527'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 528'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 529'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 530'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 531'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 532'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 533'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 534'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 535'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 536'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 537'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 538'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 539'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 540'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 541'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 542'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 543'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 544'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 545'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 546'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 547'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 548'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 549'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 550'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 551'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 552'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 553'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 554'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 555'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 556'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 557'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 558'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 559'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 560'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 561'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 562'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 563'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 564'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 565'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 566'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 567'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 568'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 569'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 570'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 571'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 572'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 573'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 574'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 575'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 576'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 577'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 578'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 579'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 580'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 581'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 582'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 583'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 584'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 585'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 586'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 587'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 588'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 589'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 590'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 591'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 592'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 593'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 594'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 595'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 596'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 597'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 598'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 599'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 600'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 601'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 602'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 603'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 604'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 605'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 606'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 607'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 608'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 609'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 610'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 611'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 612'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 613'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 614'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 615'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 616'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 617'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 618'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 619'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 620'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 621'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 622'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 623'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 624'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 625'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 626'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 627'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 628'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 629'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 630'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 631'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 632'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 633'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 634'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 635'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 636'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 637'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 638'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 639'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 640'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 641'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 642'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 643'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 644'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 645'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 646'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 647'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 648'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 649'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 650'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 651'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 652'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 653'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 654'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 655'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 656'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 657'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 658'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 659'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 660'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 661'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 662'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 663'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 664'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 665'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 666'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 667'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 668'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 669'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 670'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 671'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 672'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 673'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 674'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 675'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 676'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 677'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 678'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 679'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 680'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 681'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 682'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 683'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 684'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 685'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 686'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 687'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 688'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 689'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 690'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 691'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 692'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 693'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 694'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 695'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 696'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 697'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 698'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 699'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 700'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 701'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 702'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 703'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 704'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 705'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 706'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 707'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 708'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 709'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 710'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 711'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 712'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 713'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 714'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 715'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 716'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 717'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting Nube_Ptos_Mani.las, first point: 718'000'000, num points: 808'031
+INFO(indexer.cpp:1656): start indexing chunk r0223
+filesize: 213'221'751
+min: 5077082.8530000001, 2090662.1764999996, 31.309499999964146
+max: 5077358.6145000001, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0225
+filesize: 200'929'972
+min: 5077358.6145000001, 2090386.4149999996, 31.309499999964146
+max: 5077634.3760000002, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0227
+filesize: 304'912'094
+min: 5077358.6145000001, 2090662.1764999996, 31.309499999964146
+max: 5077634.3760000002, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r020
+filesize: 51'347'997
+min: 5077082.8530000001, 2089834.8919999998, -244.452
+max: 5077634.3760000002, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0221
+filesize: 59'898'262
+min: 5077082.8530000001, 2090386.4149999996, 31.309499999964146
+max: 5077358.6145000001, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r024
+filesize: 194'542'763
+min: 5077634.3760000002, 2089834.8919999998, -244.452
+max: 5078185.8990000002, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0261
+filesize: 178'693'176
+min: 5077634.3760000002, 2090386.4149999996, 31.309499999964146
+max: 5077910.1375000002, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0265
+filesize: 138'732'502
+min: 5077910.1375000002, 2090386.4149999996, 31.309499999964146
+max: 5078185.8990000002, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0267
+filesize: 304'652'128
+min: 5077910.1375000002, 2090662.1764999996, 31.309499999964146
+max: 5078185.8990000002, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0263
+filesize: 295'843'137
+min: 5077634.3760000002, 2090662.1764999996, 31.309499999964146
+max: 5077910.1375000002, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0423
+filesize: 21'354'536
+min: 5078185.8990000002, 2089559.1305, 31.309499999964146
+max: 5078461.6605000002, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0425
+filesize: 73'985'623
+min: 5078461.6605000002, 2089283.3689999999, 31.309499999964146
+max: 5078737.4220000003, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0427
+filesize: 245'486'489
+min: 5078461.6605000002, 2089559.1305, 31.309499999964146
+max: 5078737.4220000003, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r044
+filesize: 153'538'567
+min: 5078737.4220000003, 2088731.8459999999, -244.452
+max: 5079288.9450000003, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0461
+filesize: 217'012'152
+min: 5078737.4220000003, 2089283.3689999999, 31.309499999964146
+max: 5079013.1835000003, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0463
+filesize: 118'052'278
+min: 5078737.4220000003, 2089559.1305, 31.309499999964146
+max: 5079013.1835000003, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0465
+filesize: 177'464'708
+min: 5079013.1835000003, 2089283.3689999999, 31.309499999964146
+max: 5079288.9450000003, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0467
+filesize: 294'120'684
+min: 5079013.1835000003, 2089559.1305, 31.309499999964146
+max: 5079288.9450000003, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0601
+filesize: 168'601'095
+min: 5078185.8990000002, 2089834.8919999998, 31.309499999964146
+max: 5078461.6605000002, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0603
+filesize: 123'492'840
+min: 5078185.8990000002, 2090110.6534999995, 31.309499999964146
+max: 5078461.6605000002, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0605
+filesize: 166'760'873
+min: 5078461.6605000002, 2089834.8919999998, 31.309499999964146
+max: 5078737.4220000003, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0606
+filesize: 8'463
+min: 5078461.6605000002, 2090110.6534999995, -244.452
+max: 5078737.4220000003, 2090386.4149999996, 31.309499999964146
+INFO(indexer.cpp:1699): finished indexing chunk r0606
+INFO(indexer.cpp:1656): start indexing chunk r0607
+filesize: 205'821'121
+min: 5078461.6605000002, 2090110.6534999995, 31.309499999964146
+max: 5078737.4220000003, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0621
+filesize: 267'604'927
+min: 5078185.8990000002, 2090386.4149999996, 31.309499999964146
+max: 5078461.6605000002, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0623
+filesize: 171'247'596
+min: 5078185.8990000002, 2090662.1764999996, 31.309499999964146
+max: 5078461.6605000002, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0641
+filesize: 261'538'382
+min: 5078737.4220000003, 2089834.8919999998, 31.309499999964146
+max: 5079013.1835000003, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0625
+filesize: 299'855'994
+min: 5078461.6605000002, 2090386.4149999996, 31.309499999964146
+max: 5078737.4220000003, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0627
+filesize: 190'711'101
+min: 5078461.6605000002, 2090662.1764999996, 31.309499999964146
+max: 5078737.4220000003, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r06431
+filesize: 85'315'782
+min: 5078737.4220000003, 2090110.6534999995, 169.19024999994622
+max: 5078875.3027500007, 2090248.5342499996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r06433
+filesize: 72'799'749
+min: 5078737.4220000003, 2090248.5342499996, 169.19024999994622
+max: 5078875.3027500007, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r06435
+filesize: 72'224'792
+min: 5078875.3027500007, 2090110.6534999995, 169.19024999994622
+max: 5079013.1835000003, 2090248.5342499996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r0645
+filesize: 296'122'478
+min: 5079013.1835000003, 2089834.8919999998, 31.309499999964146
+max: 5079288.9450000003, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r06437
+filesize: 83'357'605
+min: 5078875.3027500007, 2090248.5342499996, 169.19024999994622
+max: 5079013.1835000003, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0423
+INFO(indexer.cpp:1656): start indexing chunk r0647
+filesize: 273'915'070
+min: 5079013.1835000003, 2090110.6534999995, 31.309499999964146
+max: 5079288.9450000003, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r06433
+INFO(indexer.cpp:1656): start indexing chunk r0661
+filesize: 274'238'028
+min: 5078737.4220000003, 2090386.4149999996, 31.309499999964146
+max: 5079013.1835000003, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r020
+INFO(indexer.cpp:1656): start indexing chunk r0663
+filesize: 267'753'014
+min: 5078737.4220000003, 2090662.1764999996, 31.309499999964146
+max: 5079013.1835000003, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0221
+INFO(indexer.cpp:1656): start indexing chunk r0665
+filesize: 275'616'536
+min: 5079013.1835000003, 2090386.4149999996, 31.309499999964146
+max: 5079288.9450000003, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0461
+INFO(indexer.cpp:1656): start indexing chunk r0667
+filesize: 277'329'658
+min: 5079013.1835000003, 2090662.1764999996, 31.309499999964146
+max: 5079288.9450000003, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0225
+INFO(indexer.cpp:1656): start indexing chunk r2001
+filesize: 132'350'749
+min: 5077082.8530000001, 2090937.9379999996, 31.309499999964146
+max: 5077358.6145000001, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0223
+INFO(indexer.cpp:1656): start indexing chunk r2005
+filesize: 202'626'943
+min: 5077358.6145000001, 2090937.9379999996, 31.309499999964146
+max: 5077634.3760000002, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0425
+INFO(indexer.cpp:1656): start indexing chunk r204
+filesize: 154'066'435
+min: 5077634.3760000002, 2090937.9379999996, -244.452
+max: 5078185.8990000002, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r06435
+INFO(indexer.cpp:1656): start indexing chunk r2401
+filesize: 51'138'406
+min: 5078185.8990000002, 2090937.9379999996, 31.309499999964146
+max: 5078461.6605000002, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r06437
+INFO(indexer.cpp:1656): start indexing chunk r2403
+filesize: 125'639'404
+min: 5078185.8990000002, 2091213.6994999996, 31.309499999964146
+max: 5078461.6605000002, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r06431
+INFO(indexer.cpp:1656): start indexing chunk r2405
+filesize: 190'644'172
+min: 5078461.6605000002, 2090937.9379999996, 31.309499999964146
+max: 5078737.4220000003, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0647
+INFO(indexer.cpp:1656): start indexing chunk r2407
+filesize: 226'339'494
+min: 5078461.6605000002, 2091213.6994999996, 31.309499999964146
+max: 5078737.4220000003, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0467
+INFO(indexer.cpp:1656): start indexing chunk r242
+filesize: 124'629'145
+min: 5078185.8990000002, 2091489.4609999997, -244.452
+max: 5078737.4220000003, 2092040.9839999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2001
+INFO(indexer.cpp:1699): finished indexing chunk r0463
+INFO(indexer.cpp:1699): finished indexing chunk r2401
+INFO(indexer.cpp:1699): finished indexing chunk r0603
+INFO(indexer.cpp:1656): start indexing chunk r2441
+filesize: 256'724'857
+min: 5078737.4220000003, 2090937.9379999996, 31.309499999964146
+max: 5079013.1835000003, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r2443
+filesize: 278'901'172
+min: 5078737.4220000003, 2091213.6994999996, 31.309499999964146
+max: 5079013.1835000003, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r2445
+filesize: 258'759'449
+min: 5079013.1835000003, 2090937.9379999996, 31.309499999964146
+max: 5079288.9450000003, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r2447
+filesize: 262'090'120
+min: 5079013.1835000003, 2091213.6994999996, 31.309499999964146
+max: 5079288.9450000003, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0661
+INFO(indexer.cpp:1656): start indexing chunk r2461
+filesize: 198'388'747
+min: 5078737.4220000003, 2091489.4609999997, 31.309499999964146
+max: 5079013.1835000003, 2091765.2224999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0265
+INFO(indexer.cpp:1656): start indexing chunk r2463
+filesize: 7'247'614
+min: 5078737.4220000003, 2091765.2224999997, 31.309499999964146
+max: 5079013.1835000003, 2092040.9839999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r044
+INFO(indexer.cpp:1656): start indexing chunk r2465
+filesize: 207'779'701
+min: 5079013.1835000003, 2091489.4609999997, 31.309499999964146
+max: 5079288.9450000003, 2091765.2224999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2463
+INFO(indexer.cpp:1656): start indexing chunk r2467
+filesize: 7'971'712
+min: 5079013.1835000003, 2091765.2224999997, 31.309499999964146
+max: 5079288.9450000003, 2092040.9839999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0601
+INFO(indexer.cpp:1656): start indexing chunk r4001
+filesize: 80'554'399
+min: 5079288.9450000003, 2088731.8459999999, 31.309499999964146
+max: 5079564.7065000003, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0623
+INFO(indexer.cpp:1656): start indexing chunk r4003
+filesize: 97'041'098
+min: 5079288.9450000003, 2089007.6074999999, 31.309499999964146
+max: 5079564.7065000003, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2467
+INFO(indexer.cpp:1656): start indexing chunk r4005
+filesize: 81'506'285
+min: 5079564.7065000003, 2088731.8459999999, 31.309499999964146
+max: 5079840.4680000003, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0261
+INFO(indexer.cpp:1656): start indexing chunk r4007
+filesize: 222'395'426
+min: 5079564.7065000003, 2089007.6074999999, 31.309499999964146
+max: 5079840.4680000003, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0627
+INFO(indexer.cpp:1656): start indexing chunk r4021
+filesize: 287'917'801
+min: 5079288.9450000003, 2089283.3689999999, 31.309499999964146
+max: 5079564.7065000003, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0605
+INFO(indexer.cpp:1656): start indexing chunk r4023
+filesize: 306'339'024
+min: 5079288.9450000003, 2089559.1305, 31.309499999964146
+max: 5079564.7065000003, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2005
+INFO(indexer.cpp:1699): finished indexing chunk r0465
+INFO(indexer.cpp:1656): start indexing chunk r4025
+filesize: 296'757'637
+min: 5079564.7065000003, 2089283.3689999999, 31.309499999964146
+max: 5079840.4680000003, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4027
+filesize: 268'184'069
+min: 5079564.7065000003, 2089559.1305, 31.309499999964146
+max: 5079840.4680000003, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r024
+INFO(indexer.cpp:1656): start indexing chunk r4041
+filesize: 5'081'458
+min: 5079840.4680000003, 2088731.8459999999, 31.309499999964146
+max: 5080116.2295000004, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2403
+INFO(indexer.cpp:1699): finished indexing chunk r0607
+INFO(indexer.cpp:1656): start indexing chunk r4043
+filesize: 207'926'827
+min: 5079840.4680000003, 2089007.6074999999, 31.309499999964146
+max: 5080116.2295000004, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4045
+filesize: 18'952'222
+min: 5080116.2295000004, 2088731.8459999999, 31.309499999964146
+max: 5080391.9910000004, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4041
+INFO(indexer.cpp:1656): start indexing chunk r4047
+filesize: 284'665'002
+min: 5080116.2295000004, 2089007.6074999999, 31.309499999964146
+max: 5080391.9910000004, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0667
+INFO(indexer.cpp:1656): start indexing chunk r4061
+filesize: 288'389'528
+min: 5079840.4680000003, 2089283.3689999999, 31.309499999964146
+max: 5080116.2295000004, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4045
+INFO(indexer.cpp:1656): start indexing chunk r4063
+filesize: 261'487'325
+min: 5079840.4680000003, 2089559.1305, 31.309499999964146
+max: 5080116.2295000004, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4001
+INFO(indexer.cpp:1656): start indexing chunk r4065
+filesize: 245'871'323
+min: 5080116.2295000004, 2089283.3689999999, 31.309499999964146
+max: 5080391.9910000004, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r204
+INFO(indexer.cpp:1656): start indexing chunk r4067
+filesize: 266'561'963
+min: 5080116.2295000004, 2089559.1305, 31.309499999964146
+max: 5080391.9910000004, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r242
+INFO(indexer.cpp:1656): start indexing chunk r4201
+filesize: 266'062'894
+min: 5079288.9450000003, 2089834.8919999998, 31.309499999964146
+max: 5079564.7065000003, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0427
+INFO(indexer.cpp:1699): finished indexing chunk r4005
+INFO(indexer.cpp:1656): start indexing chunk r4203
+filesize: 283'547'204
+min: 5079288.9450000003, 2090110.6534999995, 31.309499999964146
+max: 5079564.7065000003, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4205
+filesize: 273'616'912
+min: 5079564.7065000003, 2089834.8919999998, 31.309499999964146
+max: 5079840.4680000003, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4003
+INFO(indexer.cpp:1656): start indexing chunk r4207
+filesize: 275'662'416
+min: 5079564.7065000003, 2090110.6534999995, 31.309499999964146
+max: 5079840.4680000003, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0641
+INFO(indexer.cpp:1699): finished indexing chunk r2407
+INFO(indexer.cpp:1656): start indexing chunk r4221
+filesize: 279'232'624
+min: 5079288.9450000003, 2090386.4149999996, 31.309499999964146
+max: 5079564.7065000003, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2461
+INFO(indexer.cpp:1656): start indexing chunk r4223
+filesize: 281'066'088
+min: 5079288.9450000003, 2090662.1764999996, 31.309499999964146
+max: 5079564.7065000003, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4225
+filesize: 271'062'667
+min: 5079564.7065000003, 2090386.4149999996, 31.309499999964146
+max: 5079840.4680000003, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2405
+INFO(indexer.cpp:1699): finished indexing chunk r0621
+INFO(indexer.cpp:1699): finished indexing chunk r0663
+INFO(indexer.cpp:1656): start indexing chunk r4227
+filesize: 279'072'912
+min: 5079564.7065000003, 2090662.1764999996, 31.309499999964146
+max: 5079840.4680000003, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4241
+filesize: 286'075'223
+min: 5079840.4680000003, 2089834.8919999998, 31.309499999964146
+max: 5080116.2295000004, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4243
+filesize: 282'317'868
+min: 5079840.4680000003, 2090110.6534999995, 31.309499999964146
+max: 5080116.2295000004, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0645
+INFO(indexer.cpp:1656): start indexing chunk r4245
+filesize: 264'867'348
+min: 5080116.2295000004, 2089834.8919999998, 31.309499999964146
+max: 5080391.9910000004, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2441
+INFO(indexer.cpp:1656): start indexing chunk r4247
+filesize: 265'176'387
+min: 5080116.2295000004, 2090110.6534999995, 31.309499999964146
+max: 5080391.9910000004, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0665
+INFO(indexer.cpp:1656): start indexing chunk r4261
+filesize: 279'963'263
+min: 5079840.4680000003, 2090386.4149999996, 31.309499999964146
+max: 5080116.2295000004, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0625
+INFO(indexer.cpp:1656): start indexing chunk r4263
+filesize: 230'469'438
+min: 5079840.4680000003, 2090662.1764999996, 31.309499999964146
+max: 5080116.2295000004, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4025
+INFO(indexer.cpp:1656): start indexing chunk r4265
+filesize: 278'278'568
+min: 5080116.2295000004, 2090386.4149999996, 31.309499999964146
+max: 5080391.9910000004, 2090662.1764999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0267
+INFO(indexer.cpp:1656): start indexing chunk r4267
+filesize: 106'822'435
+min: 5080116.2295000004, 2090662.1764999996, 31.309499999964146
+max: 5080391.9910000004, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0227
+INFO(indexer.cpp:1656): start indexing chunk r4401
+filesize: 109'839'541
+min: 5080391.9910000004, 2088731.8459999999, 31.309499999964146
+max: 5080667.7525000004, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2465
+INFO(indexer.cpp:1656): start indexing chunk r4403
+filesize: 298'707'165
+min: 5080391.9910000004, 2089007.6074999999, 31.309499999964146
+max: 5080667.7525000004, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4061
+INFO(indexer.cpp:1656): start indexing chunk r4405
+filesize: 171'425'474
+min: 5080667.7525000004, 2088731.8459999999, 31.309499999964146
+max: 5080943.5140000004, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4201
+INFO(indexer.cpp:1656): start indexing chunk r4407
+filesize: 250'048'635
+min: 5080667.7525000004, 2089007.6074999999, 31.309499999964146
+max: 5080943.5140000004, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r0263
+INFO(indexer.cpp:1656): start indexing chunk r4421
+filesize: 246'620'903
+min: 5080391.9910000004, 2089283.3689999999, 31.309499999964146
+max: 5080667.7525000004, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4221
+INFO(indexer.cpp:1656): start indexing chunk r4423
+filesize: 218'591'509
+min: 5080391.9910000004, 2089559.1305, 31.309499999964146
+max: 5080667.7525000004, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4225
+INFO(indexer.cpp:1656): start indexing chunk r4425
+filesize: 262'856'657
+min: 5080667.7525000004, 2089283.3689999999, 31.309499999964146
+max: 5080943.5140000004, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2447
+INFO(indexer.cpp:1699): finished indexing chunk r2445
+INFO(indexer.cpp:1699): finished indexing chunk r4007
+INFO(indexer.cpp:1656): start indexing chunk r4427
+filesize: 234'941'157
+min: 5080667.7525000004, 2089559.1305, 31.309499999964146
+max: 5080943.5140000004, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4441
+filesize: 137'838'989
+min: 5080943.5140000004, 2088731.8459999999, 31.309499999964146
+max: 5081219.2754999995, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1656): start indexing chunk r4443
+filesize: 191'914'986
+min: 5080943.5140000004, 2089007.6074999999, 31.309499999964146
+max: 5081219.2754999995, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4043
+INFO(indexer.cpp:1656): start indexing chunk r4445
+filesize: 11'670'911
+min: 5081219.2754999995, 2088731.8459999999, 31.309499999964146
+max: 5081495.0369999995, 2089007.6074999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4247
+INFO(indexer.cpp:1656): start indexing chunk r4447
+filesize: 134'307'810
+min: 5081219.2754999995, 2089007.6074999999, 31.309499999964146
+max: 5081495.0369999995, 2089283.3689999999, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4445
+INFO(indexer.cpp:1656): start indexing chunk r4461
+filesize: 220'545'067
+min: 5080943.5140000004, 2089283.3689999999, 31.309499999964146
+max: 5081219.2754999995, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4405
+INFO(indexer.cpp:1656): start indexing chunk r4463
+filesize: 179'676'930
+min: 5080943.5140000004, 2089559.1305, 31.309499999964146
+max: 5081219.2754999995, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r2443
+INFO(indexer.cpp:1656): start indexing chunk r4465
+filesize: 163'631'423
+min: 5081219.2754999995, 2089283.3689999999, 31.309499999964146
+max: 5081495.0369999995, 2089559.1305, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4267
+INFO(indexer.cpp:1656): start indexing chunk r4467
+filesize: 151'922'134
+min: 5081219.2754999995, 2089559.1305, 31.309499999964146
+max: 5081495.0369999995, 2089834.8919999998, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4401
+INFO(indexer.cpp:1656): start indexing chunk r4601
+filesize: 245'013'243
+min: 5080391.9910000004, 2089834.8919999998, 31.309499999964146
+max: 5080667.7525000004, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4021
+INFO(indexer.cpp:1656): start indexing chunk r4603
+filesize: 272'305'519
+min: 5080391.9910000004, 2090110.6534999995, 31.309499999964146
+max: 5080667.7525000004, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4027
+INFO(indexer.cpp:1656): start indexing chunk r4605
+filesize: 208'077'487
+min: 5080667.7525000004, 2089834.8919999998, 31.309499999964146
+max: 5080943.5140000004, 2090110.6534999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4065
+INFO(indexer.cpp:1656): start indexing chunk r4607
+filesize: 178'769'126
+min: 5080667.7525000004, 2090110.6534999995, 31.309499999964146
+max: 5080943.5140000004, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4207
+INFO(indexer.cpp:1656): start indexing chunk r462
+filesize: 155'725'617
+min: 5080391.9910000004, 2090386.4149999996, -244.452
+max: 5080943.5140000004, 2090937.9379999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4063
+INFO(indexer.cpp:1656): start indexing chunk r464
+filesize: 255'586'072
+min: 5080943.5140000004, 2089834.8919999998, -244.452
+max: 5081495.0369999995, 2090386.4149999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4023
+INFO(indexer.cpp:1656): start indexing chunk r6001
+filesize: 248'219'852
+min: 5079288.9450000003, 2090937.9379999996, 31.309499999964146
+max: 5079564.7065000003, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4223
+INFO(indexer.cpp:1656): start indexing chunk r6003
+filesize: 210'226'190
+min: 5079288.9450000003, 2091213.6994999996, 31.309499999964146
+max: 5079564.7065000003, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4067
+INFO(indexer.cpp:1656): start indexing chunk r6005
+filesize: 194'165'059
+min: 5079564.7065000003, 2090937.9379999996, 31.309499999964146
+max: 5079840.4680000003, 2091213.6994999996, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4047
+INFO(indexer.cpp:1656): start indexing chunk r6007
+filesize: 39'786'857
+min: 5079564.7065000003, 2091213.6994999996, 31.309499999964146
+max: 5079840.4680000003, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4245
+INFO(indexer.cpp:1656): start indexing chunk r602
+filesize: 43'542'445
+min: 5079288.9450000003, 2091489.4609999997, -244.452
+max: 5079840.4680000003, 2092040.9839999995, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4265
+INFO(indexer.cpp:1656): start indexing chunk r604
+filesize: 60'764'526
+min: 5079840.4680000003, 2090937.9379999996, -244.452
+max: 5080391.9910000004, 2091489.4609999997, 307.07099999992829
+INFO(indexer.cpp:1699): finished indexing chunk r4205
+INFO(indexer.cpp:1699): finished indexing chunk r4407
+INFO(indexer.cpp:1699): finished indexing chunk r4243
+INFO(indexer.cpp:1699): finished indexing chunk r4241
+INFO(indexer.cpp:1699): finished indexing chunk r4423
+INFO(indexer.cpp:1699): finished indexing chunk r4441
+INFO(indexer.cpp:1699): finished indexing chunk r4203
+INFO(indexer.cpp:1699): finished indexing chunk r4227
+INFO(indexer.cpp:1699): finished indexing chunk r4447
+INFO(indexer.cpp:1699): finished indexing chunk r6007
+INFO(indexer.cpp:1699): finished indexing chunk r602
+INFO(indexer.cpp:1699): finished indexing chunk r4425
+INFO(indexer.cpp:1699): finished indexing chunk r4263
+INFO(indexer.cpp:1699): finished indexing chunk r604
+INFO(indexer.cpp:1699): finished indexing chunk r4463
+INFO(indexer.cpp:1699): finished indexing chunk r4465
+INFO(indexer.cpp:1699): finished indexing chunk r4467
+INFO(indexer.cpp:1699): finished indexing chunk r4443
+INFO(indexer.cpp:1699): finished indexing chunk r4261
+INFO(indexer.cpp:1699): finished indexing chunk r4421
+INFO(indexer.cpp:1699): finished indexing chunk r4461
+INFO(indexer.cpp:1699): finished indexing chunk r4427
+INFO(indexer.cpp:1699): finished indexing chunk r4403
+INFO(indexer.cpp:1699): finished indexing chunk r4607
+INFO(indexer.cpp:1699): finished indexing chunk r462
+INFO(indexer.cpp:1699): finished indexing chunk r4605
+INFO(indexer.cpp:1699): finished indexing chunk r6003
+INFO(indexer.cpp:1699): finished indexing chunk r6005
+INFO(indexer.cpp:1699): finished indexing chunk r4601
+INFO(indexer.cpp:1699): finished indexing chunk r6001
+INFO(indexer.cpp:1699): finished indexing chunk r4603
+INFO(indexer.cpp:1699): finished indexing chunk r464
